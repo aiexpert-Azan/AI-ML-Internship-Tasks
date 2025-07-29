@@ -24,7 +24,7 @@ Explore and visualize the famous Iris flower dataset to identify feature relatio
 - Descriptive statistics and dataset inspection
 
 **Notebook:**  
-[Task1.ipynb](./Task1.ipynb)
+[Task 1.ipynb](./Task  1.ipynb)
 
 ---
 
@@ -43,7 +43,7 @@ Use historical stock data to predict the next day's closing price using regressi
 - Visualized actual vs predicted prices
 
 **Notebook:**  
-[Task2.ipynb](./Task2.ipynb)
+[Task 2.ipynb](./Task 2.ipynb)
 
 ---
 
@@ -62,7 +62,7 @@ Build a binary classification model to predict whether a person is at risk of he
 - Visualized correlation heatmap and ROC curve
 
 **Notebook:**  
-[Task3.ipynb](./Task3.ipynb)
+[Task 3.ipynb](./Task 3.ipynb)
 
 ---
 
