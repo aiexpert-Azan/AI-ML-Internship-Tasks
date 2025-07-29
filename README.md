@@ -1,4 +1,4 @@
-# 🧠 AI/ML Engineering Internship – DevelopersHub Corporation
+# AI/ML Engineering Internship – DevelopersHub Corporation
 
 ## 📌 Internship Overview
 This repository contains the completed tasks for the **AI/ML Internship** at DevelopersHub Corporation. The objective of this internship was to apply core machine learning and data analysis skills to real-world problems.
@@ -7,11 +7,11 @@ This repository contains the completed tasks for the **AI/ML Internship** at Dev
 
 ---
 
-## ✅ Completed Tasks
+## Completed Tasks
 
 ---
 
-### 🔹 Task 1: Iris Dataset – Exploratory Data Analysis
+###  Task 1: Iris Dataset – Exploratory Data Analysis
 
 **Objective:**  
 Explore and visualize the famous Iris flower dataset to identify feature relationships, outliers, and distributions.
@@ -23,12 +23,12 @@ Explore and visualize the famous Iris flower dataset to identify feature relatio
 - Pairplot, boxplots, and histograms to visualize features
 - Descriptive statistics and dataset inspection
 
-**📁 Notebook:**  
-[Task 1.ipynb](./Task%201.ipynb)
+**Notebook:**  
+[Task1.ipynb](./Task1.ipynb)
 
 ---
 
-### 🔹 Task 2: Stock Price Prediction (Short-Term)
+### Task 2: Stock Price Prediction (Short-Term)
 
 **Objective:**  
 Use historical stock data to predict the next day's closing price using regression techniques.
@@ -42,12 +42,12 @@ Use historical stock data to predict the next day's closing price using regressi
 - Evaluated with R² score and Mean Squared Error (MSE)
 - Visualized actual vs predicted prices
 
-**📁 Notebook:**  
-[Task 2.ipynb](./Task%202.ipynb)
+**Notebook:**  
+[Task2.ipynb](./Task2.ipynb)
 
 ---
 
-### 🔹 Task 3: Heart Disease Prediction
+### Task 3: Heart Disease Prediction
 
 **Objective:**  
 Build a binary classification model to predict whether a person is at risk of heart disease.
@@ -61,12 +61,12 @@ Build a binary classification model to predict whether a person is at risk of he
 - Evaluated using Accuracy, Confusion Matrix, ROC-AUC
 - Visualized correlation heatmap and ROC curve
 
-**📁 Notebook:**  
-[Task 3.ipynb](./Task%203.ipynb)
+**Notebook:**  
+[Task3.ipynb](./Task3.ipynb)
 
 ---
 
-## 🧾 Submission Details
+## Submission Details
 
 - **Internship Title:** AI/ML Engineering Internship
 - **Company:** DevelopersHub Corporation
